@@ -1,0 +1,6 @@
+{
+  "name": "AI Loan Eligibility Checker & BFSI Advisor",
+  "description": "Intelligent BFSI web platform featuring Loan Eligibility Checker, Credit Score Analyzer, EMI Calculator, AI Financial Tips, and Yash AI financial bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
